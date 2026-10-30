@@ -1,0 +1,16 @@
+{
+  "UI_Preservative_AntidoteSuccess": "Fatal poisoning countdown removed",
+  "UI_Preservative_PoisonIndicatorTitle": "Preservative poisoning",
+  "UI_Preservative_PoisonTimeRemaining": "%1 h %2 min remaining",
+  "UI_Preservative_PoisonAntidote": "Antidote: use Lemongrass or Antibiotics.",
+  "UI_Preservative_PoisonAftercare": "Fatal timer cleared; sickness may remain.",
+  "UI_Preservative_GeneralPoisonTitle": "Poisoning detected",
+  "UI_Preservative_PoisonSourceUnknown": "Cause: another food, fluid, chemical, or mod effect.",
+  "UI_Preservative_GeneralPoisonAdvice": "Stop exposure, rest, and use treatment appropriate to the source.",
+  "UI_Preservative_FoodPoisonTitle": "Food sickness detected",
+  "UI_Preservative_FoodPoisonCause": "Likely cause: unsafe, spoiled, raw, or poisonous food.",
+  "UI_Preservative_BottleHoverRemaining": "Preservative remaining: about %1 game days",
+  "UI_Preservative_BottleHoverStrength": "Protection efficiency: %1%%",
+  "UI_Preservative_BottleHoverWarning": "DANGER: consuming this package may cause lethal poisoning.",
+  "UI_Preservative_WildFoodPoisonWarning": "WARNING: This edible wild item is poisonous."
+}

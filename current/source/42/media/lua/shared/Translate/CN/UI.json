@@ -1,0 +1,16 @@
+{
+  "UI_Preservative_AntidoteSuccess": "致死中毒倒计时已解除",
+  "UI_Preservative_PoisonIndicatorTitle": "防腐剂中毒",
+  "UI_Preservative_PoisonTimeRemaining": "剩余 %1 小时 %2 分钟",
+  "UI_Preservative_PoisonAntidote": "解毒：右键柠檬草或抗生素，选择防腐剂解毒。",
+  "UI_Preservative_PoisonAftercare": "解毒剂会解除致死倒计时，但残留不适可能继续存在。",
+  "UI_Preservative_GeneralPoisonTitle": "检测到中毒",
+  "UI_Preservative_PoisonSourceUnknown": "可能来源：其他食物、液体、化学品或模组效果。",
+  "UI_Preservative_GeneralPoisonAdvice": "停止接触毒源、休息，并按具体毒源采用对应治疗。",
+  "UI_Preservative_FoodPoisonTitle": "检测到食物中毒",
+  "UI_Preservative_FoodPoisonCause": "可能原因：变质、生食、有毒或不安全的食物。",
+  "UI_Preservative_BottleHoverRemaining": "防腐剂剩余：约 %1 个游戏日",
+  "UI_Preservative_BottleHoverStrength": "当前防腐效率：%1%%",
+  "UI_Preservative_BottleHoverWarning": "危险：食用本品可能导致致命中毒。",
+  "UI_Preservative_WildFoodPoisonWarning": "警告：该可食用自然物有毒。"
+}

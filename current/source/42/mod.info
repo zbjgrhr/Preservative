@@ -1,0 +1,9 @@
+id=Preservative
+name=【IA】 Preservative & Poison Alert
+author=[IA] Introvert Arcade
+modversion=0.3.0
+description=Created by [IA] Introvert Arcade.<LINE><LINE>Adds configurable preservative packages, broad inventory/container/vehicle protection, a ground protection area, poisonous-wild-food warnings, an all-poison status icon, and preservative antidote guidance. Supports English and Chinese.<LINE><LINE>作者：[IA] Introvert Arcade（I人）。<LINE>加入可配置防腐剂、人物/容器/车辆范围防腐、地面范围防腐、有毒自然物警告、通用中毒状态图标，以及防腐剂解毒提示。支持中英文。
+poster=poster.png
+icon=icon.png
+tags=Build 42;Food;Items
+versionMin=42.21

@@ -1,0 +1,19 @@
+{
+  "Sandbox_Preservative": "Preservative & Poison Alert",
+  "Sandbox_Preservative_PreservationStrength": "Preservative efficiency (based on Food Spoilage)",
+  "Sandbox_Preservative_PreservationStrength_tooltip": "0%% follows the player's Food Spoilage setting; default 40%%; 100%% completely stops spoilage inside the preservative's protection range.",
+  "Sandbox_Preservative_GlobalPreservation": "Global food preservation",
+  "Sandbox_Preservative_GlobalPreservation_tooltip": "0%% makes perishable food rot immediately; 50%% follows the save's Food Spoilage setting; 100%% prevents all food spoilage worldwide.",
+  "Sandbox_Preservative_BottleLifetimeDays": "Package lifetime (game days)",
+  "Sandbox_Preservative_BottleLifetimeDays_tooltip": "Range: 1–9999999 days; default: 30. Time is consumed only while perishable food is actually protected.",
+  "Sandbox_Preservative_SpawnMultiplier": "World spawn multiplier",
+  "Sandbox_Preservative_SpawnMultiplier_tooltip": "0× disables spawns; 1× is the base rate; default is 5×; maximum is 100×.",
+  "Sandbox_Preservative_WorksInColdStorage": "Works in refrigerators and freezers",
+  "Sandbox_Preservative_WorksInColdStorage_tooltip": "Allows additional preservative protection in refrigerators and freezers, consuming lifetime only while protection is active.",
+  "Sandbox_Preservative_EatingCausesPoisoning": "Eating causes poisoning",
+  "Sandbox_Preservative_EatingCausesPoisoning_tooltip": "When enabled, consuming any amount starts treatable lethal poisoning. When disabled, this mod applies no poisoning effect.",
+  "Sandbox_Preservative_LethalDelayHours": "Poison death countdown (game hours)",
+  "Sandbox_Preservative_LethalDelayHours_tooltip": "Default: 6 hours; range: 0.25–24. Use Lemongrass or Antibiotics before the countdown ends.",
+  "Sandbox_Preservative_ShowPoisonIndicator": "All-poison status icon and treatment guidance",
+  "Sandbox_Preservative_ShowPoisonIndicator_tooltip": "Shows preservative, food-sickness, and general-poison states. Known antidotes are shown; otherwise the tooltip gives source-appropriate guidance."
+}

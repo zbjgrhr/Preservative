@@ -1,0 +1,19 @@
+{
+  "Sandbox_Preservative": "防腐剂与中毒警报",
+  "Sandbox_Preservative_PreservationStrength": "防腐效率（基于“食物变质速度”）",
+  "Sandbox_Preservative_PreservationStrength_tooltip": "0%% 完全遵循玩家的“食物变质速度”设置；默认 40%%；100%% 使防腐剂保护范围内的食物完全停止腐坏。",
+  "Sandbox_Preservative_GlobalPreservation": "全世界食物保鲜程度",
+  "Sandbox_Preservative_GlobalPreservation_tooltip": "0%% 使易腐食物立即腐坏；50%% 完全遵循当前存档的“食物变质速度”；100%% 使全世界食物永不腐坏。",
+  "Sandbox_Preservative_BottleLifetimeDays": "单包有效时间（游戏日）",
+  "Sandbox_Preservative_BottleLifetimeDays_tooltip": "范围 1～9999999 天，默认 30 天。只有实际保护易腐食物时才会消耗。",
+  "Sandbox_Preservative_SpawnMultiplier": "地图刷新倍率",
+  "Sandbox_Preservative_SpawnMultiplier_tooltip": "0 倍完全不刷新；1 倍为基础概率；默认 5 倍；最高 100 倍。",
+  "Sandbox_Preservative_WorksInColdStorage": "冷藏、冷冻环境中生效",
+  "Sandbox_Preservative_WorksInColdStorage_tooltip": "开启后，防腐剂可在冰箱和冷冻柜中继续提供额外防腐，并在实际生效时消耗有效时间。",
+  "Sandbox_Preservative_EatingCausesPoisoning": "食用会中毒",
+  "Sandbox_Preservative_EatingCausesPoisoning_tooltip": "开启后，食用任何份量的防腐剂都会触发可治疗的致命中毒。关闭后不会触发本模组的中毒效果。",
+  "Sandbox_Preservative_LethalDelayHours": "中毒死亡倒计时（游戏小时）",
+  "Sandbox_Preservative_LethalDelayHours_tooltip": "默认 6 小时，范围 0.25～24 小时。倒计时结束前可使用柠檬草或抗生素解除。",
+  "Sandbox_Preservative_ShowPoisonIndicator": "所有中毒状态图标与解毒提示",
+  "Sandbox_Preservative_ShowPoisonIndicator_tooltip": "显示防腐剂中毒、食物中毒和通用中毒状态。已知解法时显示解毒方法，毒源不明时显示处理建议。"
+}

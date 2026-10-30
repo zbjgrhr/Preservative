@@ -1,0 +1,26 @@
+module Preservative
+{
+    imports
+    {
+        Base
+    }
+
+    item PreservativeBottle
+    {
+        DisplayCategory = Survival,
+        ItemType = base:food,
+        Weight = 0.00000001,
+        Icon = PreservativeBottle,
+        HungerChange = -15.0,
+        ThirstChange = 10.0,
+        UnhappyChange = 80,
+        Calories = 0.0,
+        Carbohydrates = 0.0,
+        Lipids = 0.0,
+        Proteins = 0.0,
+        CanBeFrozen = false,
+        SurvivalGear = true,
+        OnCreate = PreservativeItem.OnCreate,
+        OnEat = PreservativePoison.OnEat,
+    }
+}

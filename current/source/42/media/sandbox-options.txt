@@ -1,0 +1,75 @@
+VERSION = 1,
+
+option Preservative.PreservationStrength
+{
+    type = double,
+    min = 0.0,
+    max = 1.0,
+    default = 0.4,
+    page = Preservative,
+    translation = Preservative_PreservationStrength,
+}
+
+option Preservative.GlobalPreservation
+{
+    type = double,
+    min = 0.0,
+    max = 1.0,
+    default = 0.5,
+    page = Preservative,
+    translation = Preservative_GlobalPreservation,
+}
+
+option Preservative.BottleLifetimeDays
+{
+    type = double,
+    min = 1.0,
+    max = 9999999.0,
+    default = 30.0,
+    page = Preservative,
+    translation = Preservative_BottleLifetimeDays,
+}
+
+option Preservative.SpawnMultiplier
+{
+    type = double,
+    min = 0.0,
+    max = 100.0,
+    default = 5.0,
+    page = Preservative,
+    translation = Preservative_SpawnMultiplier,
+}
+
+option Preservative.WorksInColdStorage
+{
+    type = boolean,
+    default = true,
+    page = Preservative,
+    translation = Preservative_WorksInColdStorage,
+}
+
+option Preservative.EatingCausesPoisoning
+{
+    type = boolean,
+    default = true,
+    page = Preservative,
+    translation = Preservative_EatingCausesPoisoning,
+}
+
+option Preservative.LethalDelayHours
+{
+    type = double,
+    min = 0.25,
+    max = 24.0,
+    default = 6.0,
+    page = Preservative,
+    translation = Preservative_LethalDelayHours,
+}
+
+option Preservative.ShowPoisonIndicator
+{
+    type = boolean,
+    default = true,
+    page = Preservative,
+    translation = Preservative_ShowPoisonIndicator,
+}
